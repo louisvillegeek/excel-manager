@@ -1,12 +1,12 @@
 {
-    "name": "convenia/excel-manager",
+    "name": "louisvillegeek/excel-manager",
     "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
     "homepage": "https://github.com/convenia/excel-manager",
     "type": "library",
     "license": "MIT",
     "require": {
-        "php": "^5.2|^7.0",
+            "php": ">=5.5",
         "ext-mbstring": "*",
         "ext-xml": "*",
         "ext-xmlwriter": "*"
